@@ -2,8 +2,8 @@
 "my.user_ocid":"ocid1.user.oc1..aaaaaaaa3q5z3vwscnsws54ljfbgaan2lhiqocgh562l5ve27lnzbgkl6uva"
 "my.tenancy_ocid":"ocid1.tenancy.oc1..aaaaaaaa7l6wfqydzz6otbjnhrloxf4tezittufwjlwbaoxvajvkr6hyxmba"
 "my.fingerprint":"49:1a:b1:1e:53:46:14:c1:30:9f:21:8a:27:11:12:c8",
-"my.availability_domain":"ca-toronto-1",
-"my.region":"Canada Southeast",
+"my.availability_domain":"idpS:CA-TORONTO-1-AD-1",
+"my.region":"ca-toronto-1",
 "my.compartment_ocid":"ocid1.compartment.oc1..aaaaaaaauzentiam34vadqhcttlrjqro5aqfo3ral4yl453ajvarqmp3i4c",
 "my.subnet_ocid":"ocid1.subnet.oc1.ca-toronto-1.aaaaaaaa724t2kprcabkrxnke7tu4ccr42djj3z7pjgmcckdua7vzoo3knfq",
 "my.base_image_ocid":"ocid1.image.oc1.iad.aaaaaaaarsu56scul4muz3sqbptvykipy2rn6re3wzdjvncgcpgqt5cp3wja"
